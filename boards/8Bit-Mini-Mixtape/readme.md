@@ -9,7 +9,7 @@ and more documentation on the SGMK wiki:
 [8Bit Mixtape wiki](http://wiki.sgmk-ssam.ch/wiki/8bit_Mix_Tape)
 
 
-![](images/8BitMiniMixtape.png)
+![](http://idiot.io/images/2/e/c/f/8/2ecf83be7b4296e06e9626096987cbd6fd4b62ca-8bitminimixtape-tlv-v13.png)
 
 [svg file](8BitMiniMixtape-TLV.svg)
 
